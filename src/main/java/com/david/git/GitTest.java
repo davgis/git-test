@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello Maven!!!!!!");
         System.out.println("hello IDEA!!!!!!");
         System.out.println("hello Git2!!!!!!");
+        System.out.println("master modified code~~~");
     }
 }
