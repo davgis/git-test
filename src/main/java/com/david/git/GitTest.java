@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello Git!");
         System.out.println("hello Maven!!!!!!");
         System.out.println("hello IDEA!!!!!!");
+        System.out.println("hello Git2!!!!!!");
     }
 }
